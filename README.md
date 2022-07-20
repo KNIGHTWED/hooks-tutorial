@@ -48,6 +48,10 @@ function reducer(state, action) {
 
 ## useCallback (렌더링 성능 최적화)
 
+useMemo와 비슷하다.
+렌더링 성능 최적화해야 하는 상황에 사용한다.
+
+## useRef
 
 
 ## 다른 Hooks
@@ -55,3 +59,4 @@ function reducer(state, action) {
 <https://nikgraf.github.io/react-hooks/>
 
 <https://github.com/rehooks/awesome-react-hooks>
+
