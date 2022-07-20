@@ -42,3 +42,16 @@ function reducer(state, action) {
 }
 ```
 
+
+## useMemo
+렌더링 하는 과정에서 특정 값이 바뀌었을 때만 연산, 바뀌지 않으면 이전 결과 다시사용
+
+## useCallback (렌더링 성능 최적화)
+
+
+
+## 다른 Hooks
+
+<https://nikgraf.github.io/react-hooks/>
+
+<https://github.com/rehooks/awesome-react-hooks>
